@@ -1,0 +1,1 @@
+console.Console("Mohidul is good boy!");

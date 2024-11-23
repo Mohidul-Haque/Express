@@ -1,0 +1,15 @@
+{
+  "name": "codemohidul",
+  "version": "1.0.0",
+  "description": "this is expresss where we studing about ecpress and node ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohidul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pug": "^3.0.3"
+  }
+}
